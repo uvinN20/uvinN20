@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=39BDF8&center=true&vCenter=true&width=710&height=58&lines=Fullstack+development+with+purpose;From+APIs+to+real+user+experiences;Building+reliable+software+systems;Learn.+Build.+Test.+Deploy.+Improve." alt="Animated introduction: fullstack development and reliable software systems" />
 </a>
 
-**Undergraduate Developer · Fullstack · Backend · DevOps & Testing**
+**Undergraduate Developer · Full-stack Development · Backend Systems**
 
 <a href="https://www.linkedin.com/in/uvin-nanayakkara-79a307358"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 <a href="https://www.hackerrank.com/profile/uvinnanayakkara1"><img src="https://img.shields.io/badge/HackerRank-Coding_Practice-00EA64?style=for-the-badge&logo=hackerrank&logoColor=073326" alt="My HackerRank profile" /></a>
@@ -16,18 +16,19 @@
 
 ---
 
-## 👋 Hello, I'm Uvin
+## Hello, I'm Uvin
 
 I'm an undergraduate developer from **Sri Lanka** who enjoys building software for real-world problems — from booking systems and campus tools to networked Java applications.
 
 I work across **frontend and backend development**, with a growing focus on **API design, automation, system reliability, and DevOps**. I care about more than getting a screen to look right: authorization, validation, data integrity, tests, architecture, and documentation matter too.
 
+- **Education:** Faculty of Engineering, University of Ruhuna
 - 🔨 **Projects:** [SeatSwift](https://github.com/uvinN20/SeatSwift) · [UniFind](https://github.com/uvinN20/unifind) · [SupplyGo](https://github.com/uvinN20/SupplyGo)
 - 🧪 **Engineering interests:** Fullstack development, backend systems, automated testing, and CI/CD
 - 🌱 **Learning next:** Next.js, cloud deployment, and applied AI/ML
 - 🎯 **Goal:** Ship well-engineered projects and prepare for software engineering internships in 2027
 
-## 🧰 Technologies I've used
+## Technologies I've used
 
 <sub>These technologies appear in my repositories. Listing them reflects practical exposure, not expert-level proficiency in every tool.</sub>
 
@@ -115,15 +116,6 @@ I work across **frontend and backend development**, with a growing focus on **AP
 - **SupplyGo:** JUnit tests cover network communication, protocol behavior, inventory, authentication, and orders.
 
 These are verifiable engineering artifacts, not claims that every project is already running in production.
-
-## 🧭 What I'm building toward
-
-| Hands-on experience | Next milestones |
-| :--- | :--- |
-| Java, React, Vue and Node fullstack projects | More advanced fullstack design |
-| REST APIs, authentication, databases | Cloud hosting, observability, security |
-| Automated tests and GitHub Actions | Deeper QA automation and CI/CD |
-| Python/FastAPI development | Applied and deployed AI/ML |
 
 ## 🤝 Let's connect
 
