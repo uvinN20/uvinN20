@@ -55,7 +55,7 @@
 </tr>
 </table>
 
-<sub>Screenshots from local app runs using demo data.</sub>
+<sub>Screenshots from local app runs using demo data. Open full size: <a href="assets/seatswift-seat-selection.png">SeatSwift</a> · <a href="assets/unifind-browse-reports.png">UniFind</a> · <a href="assets/supplygo-route-planner.png">SupplyGo</a>.</sub>
 
 ## Hello, I'm Uvin
 
