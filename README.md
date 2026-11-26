@@ -55,7 +55,7 @@
 </tr>
 </table>
 
-<sub>Screenshots from local app runs using demo data.</sub>
+<sub>Screenshots captured from local runs with sample records.</sub>
 
 ## Hello, I'm Uvin
 
