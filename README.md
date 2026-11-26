@@ -66,43 +66,28 @@ I work across **frontend and backend development**, with a growing focus on **AP
 - 🌱 **Learning next:** Next.js, cloud deployment, and applied AI/ML
 - 🎯 **Goal:** Ship well-engineered projects and prepare for software engineering internships in 2027
 
-## Technologies I've used
+## Technology by project
 
-<sub>These technologies appear in my repositories. Listing them reflects practical exposure, not expert-level proficiency in every tool.</sub>
+**[SeatSwift](https://github.com/uvinN20/SeatSwift)**
 
-**Languages**
+[![Java](https://img.shields.io/badge/Java-C74634?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/uvinN20/SeatSwift/tree/main/backend/src/main/java) [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://github.com/uvinN20/SeatSwift/blob/main/backend/pom.xml) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://github.com/uvinN20/SeatSwift/blob/main/db/BASE_SCHEMA.sql)
 
-![Java](https://img.shields.io/badge/Java-C74634?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-303032?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+**[UniFind](https://github.com/uvinN20/unifind)**
 
-**Fullstack & databases**
+[![React](https://img.shields.io/badge/React-1D2832?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/uvinN20/unifind/tree/main/frontend/src) [![Express](https://img.shields.io/badge/Express-303030?style=flat-square&logo=express&logoColor=white)](https://github.com/uvinN20/unifind/blob/main/backend/package.json) [![MongoDB](https://img.shields.io/badge/MongoDB-174D2B?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/uvinN20/unifind/tree/main/backend/src/models) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/uvinN20/unifind/blob/main/docker-compose.yml) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/uvinN20/unifind/actions/workflows/ci.yml)
 
-![React](https://img.shields.io/badge/React-1D2832?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue-34495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-44883E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-303030?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-174D2B?style=flat-square&logo=mongodb&logoColor=white)
+**[SupplyGo](https://github.com/uvinN20/SupplyGo)**
 
-**Engineering tools**
+[![Java](https://img.shields.io/badge/Java-C74634?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/uvinN20/SupplyGo/tree/main/src) [![TCP](https://img.shields.io/badge/TCP-284A69?style=flat-square)](https://github.com/uvinN20/SupplyGo/blob/main/docs/NETWORK_PROTOCOL.md) [![JUnit](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)](https://github.com/uvinN20/SupplyGo/tree/main/src/test/java)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+**[Lavendra Boutique](https://github.com/uvinN20/lavendra-boutique)**
+
+[![Vue](https://img.shields.io/badge/Vue-34495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)](https://github.com/uvinN20/lavendra-boutique/tree/main/src/views) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/uvinN20/lavendra-boutique/tree/main/src) [![Pinia](https://img.shields.io/badge/Pinia-6B4F10?style=flat-square)](https://github.com/uvinN20/lavendra-boutique/tree/main/src/stores)
 
 ## 🧪 Engineering evidence
 
 <a href="https://github.com/uvinN20/unifind/actions/workflows/ci.yml"><img src="https://github.com/uvinN20/unifind/actions/workflows/ci.yml/badge.svg" alt="UniFind GitHub Actions CI status" /></a>
-<a href="https://github.com/uvinN20/SupplyGo"><img src="https://img.shields.io/github/last-commit/uvinN20/SupplyGo?label=SupplyGo%20latest%20commit&logo=github" alt="SupplyGo latest commit" /></a>
+<a href="https://github.com/uvinN20/SupplyGo/tree/main/src/test/java"><img src="https://img.shields.io/badge/SupplyGo-View%20tests-27634C?style=flat-square&amp;logo=github" alt="SupplyGo: View tests" /></a>
 
 - **UniFind:** GitHub Actions runs API tests, builds the React frontend, and checks Docker container health. [Review CI runs](https://github.com/uvinN20/unifind/actions).
 - **SeatSwift:** Repository contains Spring Boot service/security tests and Playwright browser test scenarios.
