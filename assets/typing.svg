@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="58" viewBox="0 0 600 58">
+<style>
+  .line { visibility:hidden; animation: show 16s linear infinite; }
+  .reveal { animation: type 16s steps(22,end) infinite; }
+  @keyframes show { 0%,24.99% { visibility:visible } 25%,100% { visibility:hidden } }
+  @keyframes type { 0% { transform:scaleX(0) } 13%,100% { transform:scaleX(1) } }
+  .first { visibility:visible }
+  @media (prefers-reduced-motion:reduce) { .line,.reveal { animation:none !important } }
+</style>
+<rect x="1" y="1" width="598" height="56" rx="14" fill="#111827" stroke="#456482"/>
+<text x="38" y="36" fill="#FBBF24" font-size="22" font-family="monospace">$</text>
+<defs><clipPath id="clip0"><rect class="reveal" style="animation-delay:0s;transform-origin:70px 0" x="70" y="0" width="280" height="58"/></clipPath><clipPath id="clip1"><rect class="reveal" style="animation-delay:4s;transform-origin:70px 0" x="70" y="0" width="210" height="58"/></clipPath><clipPath id="clip2"><rect class="reveal" style="animation-delay:8s;transform-origin:70px 0" x="70" y="0" width="196" height="58"/></clipPath><clipPath id="clip3"><rect class="reveal" style="animation-delay:12s;transform-origin:70px 0" x="70" y="0" width="336" height="58"/></clipPath></defs>
+<text class="line first" style="animation-delay:0s" clip-path="url(#clip0)" x="70" y="36" fill="#A5F3FC" font-size="23" font-family="monospace">Full-Stack Developer</text>
+<text class="line" style="animation-delay:4s" clip-path="url(#clip1)" x="70" y="36" fill="#A5F3FC" font-size="23" font-family="monospace">Backend Systems</text>
+<text class="line" style="animation-delay:8s" clip-path="url(#clip2)" x="70" y="36" fill="#A5F3FC" font-size="23" font-family="monospace">DevOps Learner</text>
+<text class="line" style="animation-delay:12s" clip-path="url(#clip3)" x="70" y="36" fill="#A5F3FC" font-size="23" font-family="monospace">Building real-world apps</text>
+</svg>

@@ -1,4 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="365" viewBox="0 0 1400 365" role="img" aria-label="Uvin Nanayakkara — software developer">
+<style>
+  .cursor { animation: cursor-blink 1.6s step-end infinite; }
+  @keyframes cursor-blink { 50% { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+</style>
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#061021"/><stop offset=".56" stop-color="#0c1d32"/><stop offset="1" stop-color="#07343b"/></linearGradient><linearGradient id="a" x1="0" y1="0" x2="1"><stop stop-color="#64d7ff"/><stop offset="1" stop-color="#6df3cb"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#b8e4f0" stroke-opacity=".075" fill="none"/></pattern></defs>
 <rect width="1400" height="365" rx="25" fill="url(#bg)"/><rect width="1400" height="365" rx="25" fill="url(#grid)"/><circle cx="1210" cy="70" r="220" fill="#1eafaf" opacity=".06"/>
 <g transform="translate(60 45)" font-family="Arial,Helvetica,sans-serif">
@@ -8,5 +13,5 @@
 <text x="0" y="245" font-size="20" font-weight="600" fill="#d8ecf4">Undergraduate Software Developer</text><text x="0" y="285" font-family="Consolas,monospace" font-size="16" fill="#a9c8d4">DESIGN / BUILD / TEST / DEPLOY</text>
 </g>
 <g transform="translate(874 46)" font-family="Consolas,Monaco,monospace"><rect width="454" height="272" rx="17" fill="#081522" stroke="#487b89" stroke-width="1.5"/><path d="M17 0H437Q454 0 454 17V46H0V17Q0 0 17 0" fill="#172c41"/><circle cx="27" cy="23" r="6" fill="#fb8583"/><circle cx="49" cy="23" r="6" fill="#ffcf74"/><circle cx="71" cy="23" r="6" fill="#6bdfa5"/><text x="119" y="29" font-size="13" fill="#bfd7df">uvin@workstation:~/projects</text>
-<text x="26" y="88" font-size="18" fill="#6ceac8">$ <tspan fill="#e3f3fb">git status</tspan></text><text x="26" y="124" font-size="17" fill="#a6c8d9">On branch: keep-building</text><text x="26" y="162" font-size="18" fill="#6ceac8">$ <tspan fill="#e3f3fb">ls featured/</tspan></text><text x="26" y="198" font-size="17" fill="#6cc8f6">SeatSwift    UniFind</text><text x="26" y="226" font-size="17" fill="#6cc8f6">SupplyGo     Lavendra</text><text x="26" y="255" font-size="16" fill="#abc6d6">Build something useful <tspan fill="#6fe8bb">▌</tspan></text></g>
+<text x="26" y="88" font-size="18" fill="#6ceac8">$ <tspan fill="#e3f3fb">git status</tspan></text><text x="26" y="124" font-size="17" fill="#a6c8d9">On branch: keep-building</text><text x="26" y="162" font-size="18" fill="#6ceac8">$ <tspan fill="#e3f3fb">ls featured/</tspan></text><text x="26" y="198" font-size="17" fill="#6cc8f6">SeatSwift    UniFind</text><text x="26" y="226" font-size="17" fill="#6cc8f6">SupplyGo     Lavendra</text><text x="26" y="255" font-size="16" fill="#abc6d6">Build something useful <tspan class="cursor" fill="#6fe8bb">▌</tspan></text></g>
 <rect x="1" y="1" width="1398" height="363" rx="24" fill="none" stroke="#619cac" opacity=".45"/></svg>
