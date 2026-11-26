@@ -19,14 +19,14 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/uvinN20/SeatSwift"><img src="assets/seatswift-preview.svg" alt="Stylized SeatSwift bus booking interface illustration" width="100%" /></a>
+<a href="https://github.com/uvinN20/SeatSwift"><img src="assets/seatswift-seat-selection.png" alt="SeatSwift seat map showing selected seats and booking summary" width="100%" /></a>
 <h3>🚌 <a href="https://github.com/uvinN20/SeatSwift">SeatSwift</a></h3>
 <p>Fullstack bus reservation platform with route search, schedules, seat selection, booking rules, and passenger, owner, and administrator workflows.</p>
 <p><code>Java 25</code> <code>Spring Boot</code> <code>React</code> <code>TypeScript</code> <code>MySQL</code></p>
 <p><a href="https://github.com/uvinN20/SeatSwift">Source code &amp; documentation →</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/uvinN20/unifind"><img src="assets/unifind-preview.svg" alt="Stylized UniFind campus lost and found interface illustration" width="100%" /></a>
+<a href="https://github.com/uvinN20/unifind"><img src="assets/unifind-browse-reports.png" alt="UniFind browse reports page with filters and sample lost and found reports" width="100%" /></a>
 <h3>🔎 <a href="https://github.com/uvinN20/unifind">UniFind</a></h3>
 <p>Campus lost-and-found web app with searchable reports, item claims, recovery tracking, role-based access, containerization, and CI. <em>Team project.</em></p>
 <p><strong>My contribution:</strong> Added the <a href="https://github.com/uvinN20/unifind/commit/1dbe0b5f4c65de84031d2020e6c67d41a0e55193">GitHub Actions CI workflow</a>.</p>
@@ -39,7 +39,7 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/uvinN20/SupplyGo"><img src="assets/supplygo-architecture.svg" alt="Illustrated client-server architecture of SupplyGo" width="100%" /></a>
+<a href="https://github.com/uvinN20/SupplyGo"><img src="assets/supplygo-route-planner.png" alt="SupplyGo route planner showing the shortest route through the demo road network" width="100%" /></a>
 <h3>📦 <a href="https://github.com/uvinN20/SupplyGo">SupplyGo</a></h3>
 <p>Java supply-chain and networking system covering TCP client-server communication, concurrency, authentication, inventory/order services, and integration tests. <em>Team project, in development.</em></p>
 <p><strong>My contribution:</strong> Connected the <a href="https://github.com/uvinN20/SupplyGo/commit/c249dae82ad1d8b377e2c078045dbaed26ddbdc5">React route-planning page to the Java service</a>.</p>
@@ -55,7 +55,7 @@
 </tr>
 </table>
 
-<sub>🎨 Project visuals above are original, stylized illustrations based on the applications and architecture — not actual screenshots or evidence of public deployments. See each source repository for the implementation.</sub>
+<sub>Screenshots from local app runs using demo data.</sub>
 
 ## Hello, I'm Uvin
 
