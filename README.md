@@ -29,6 +29,7 @@
 <a href="https://github.com/uvinN20/unifind"><img src="assets/unifind-preview.svg" alt="Stylized UniFind campus lost and found interface illustration" width="100%" /></a>
 <h3>🔎 <a href="https://github.com/uvinN20/unifind">UniFind</a></h3>
 <p>Campus lost-and-found web app with searchable reports, item claims, recovery tracking, role-based access, containerization, and CI. <em>Team project.</em></p>
+<p><strong>My contribution:</strong> Added the <a href="https://github.com/uvinN20/unifind/commit/1dbe0b5f4c65de84031d2020e6c67d41a0e55193">GitHub Actions CI workflow</a>.</p>
 <p><code>React</code> <code>Express</code> <code>MongoDB</code> <code>Docker</code></p>
 <p><a href="https://github.com/uvinN20/unifind">Source code &amp; documentation →</a></p>
 </td>
@@ -41,6 +42,7 @@
 <a href="https://github.com/uvinN20/SupplyGo"><img src="assets/supplygo-architecture.svg" alt="Illustrated client-server architecture of SupplyGo" width="100%" /></a>
 <h3>📦 <a href="https://github.com/uvinN20/SupplyGo">SupplyGo</a></h3>
 <p>Java supply-chain and networking system covering TCP client-server communication, concurrency, authentication, inventory/order services, and integration tests. <em>Team project, in development.</em></p>
+<p><strong>My contribution:</strong> Connected the <a href="https://github.com/uvinN20/SupplyGo/commit/c249dae82ad1d8b377e2c078045dbaed26ddbdc5">React route-planning page to the Java service</a>.</p>
 <p><code>Java 25</code> <code>TCP/IP</code> <code>JUnit</code> <code>Maven</code></p>
 <p><a href="https://github.com/uvinN20/SupplyGo">Explore source →</a></p>
 </td>
